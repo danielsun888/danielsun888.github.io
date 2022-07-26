@@ -1,8 +1,8 @@
 ---
 layout: article
-titles:
+titles:EagleAI
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About EagleAI
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
