@@ -1,8 +1,8 @@
 ---
 layout: article
-titles:EagleAI
+title: EagleAI ReadMe
   # @start locale config
-  en      : &EN       About EagleAI
+  en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
